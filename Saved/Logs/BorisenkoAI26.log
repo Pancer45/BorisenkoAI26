@@ -682,3 +682,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.25-19.06.32:769][ 41]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2021.03.25-19.07.07:662][ 35]LogSlate: Window 'Color Picker' being destroyed
 [2021.03.25-19.07.26:041][560]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.25-19.10.54:255][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.25-19.10.54:257][989]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.012
+[2021.03.25-19.10.54:257][989]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Trash/Actor1] ([1] browsable assets)...
+[2021.03.25-19.10.54:257][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/Trash/Actor1]
+[2021.03.25-19.10.54:269][989]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Actor1_Auto1C3F3A9A94ADA5A5CD305968EE4ECA51A.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Autosaves/Game/Trash/Actor1_Auto1.uasset'
+[2021.03.25-19.10.54:270][989]LogFileHelpers: Auto-saving content packages took 0.014
+[2021.03.25-19.11.18:276][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trash/Actor1.Actor1
+[2021.03.25-19.11.18:843][ 99]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2021.03.25-19.11.22:130][207]LogRenderer: Reallocating scene render targets to support 912x724 Format 10 NumSamples 1 (Frame:103).
+[2021.03.25-19.12.01:288][227]LogSlate: Took 0.008908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.25-19.12.03:212][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trash/Actor1" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Trash/Actor1.uasset" SILENT=true
+[2021.03.25-19.12.03:223][327]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Actor1AB4E00C947D0469BA573BC9A66ACC49B.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Trash/Actor1.uasset'
+[2021.03.25-19.12.03:387][327]AssetCheck: New page: Asset Save: Actor1
+[2021.03.25-19.12.03:387][327]LogContentValidation: Display: Validating Blueprint /Game/Trash/Actor1.Actor1
+[2021.03.25-19.12.06:695][523]LogSlate: Window 'Actor1' being destroyed
+[2021.03.25-19.12.06:700][523]LogSlate: Window 'Actor1' being destroyed
+[2021.03.25-19.12.06:721][523]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-19.12.06:721][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-19.15.04:242][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms

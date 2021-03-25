@@ -678,3 +678,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.25-19.00.54:401][855]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.03.25-19.00.54:401][855]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2021.03.25-19.01.26:829][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.03.25-19.06.32:769][ 41]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.25-19.06.32:769][ 41]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.25-19.07.07:662][ 35]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.25-19.07.26:041][560]LogSlate: Window 'Pick Parent Class' being destroyed

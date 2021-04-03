@@ -1368,3 +1368,80 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.03-16.57.39:615][755]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.03-16.57.39:615][755]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.04.03-16.57.39:615][755]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.03-16.59.33:623][326]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.03-16.59.33:635][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.03-16.59.33:635][326]PIE: New page: PIE session: Minimal_Default (3 апр. 2021 г., 22:59:33)
+[2021.04.03-16.59.33:635][326]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.03-16.59.33:639][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004356s)
+[2021.04.03-16.59.33:640][326]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.03-16.59.33:641][326]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CE8FA2FE00), frame # 91326
+[2021.04.03-16.59.33:641][326]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CE8F1CA200), frame # 91326
+[2021.04.03-16.59.33:641][326]LogPlayLevel: PIE: World Init took: (0.001388s)
+[2021.04.03-16.59.33:641][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005859s)
+[2021.04.03-16.59.33:662][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.04.03-16.59.33:665][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.03-16.59.33:665][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.03-16.59.33:665][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.03-16.59.33:665][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.03-16.59.33:665][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.03-16.59.33:665][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.03-16.59.33:665][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.03-16.59.33:665][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.03-16.59.33:665][326]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.03-16.59.33:665][326]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.03-16.59.33:668][326]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.03-16.59.33:668][326]LogAudioMixer: Display: 1: FrontRight
+[2021.04.03-16.59.33:690][326]LogAudioMixer: Display: Using Audio Device Наушники (Realtek(R) Audio)
+[2021.04.03-16.59.33:690][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.03-16.59.33:690][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.03-16.59.33:690][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.03-16.59.33:691][326]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.03-16.59.33:714][326]LogInit: FAudioDevice initialized.
+[2021.04.03-16.59.33:728][326]LogLoad: Game class is 'MainGM_C'
+[2021.04.03-16.59.33:731][326]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.04.03-19.59.33
+[2021.04.03-16.59.33:731][326]LogWorld: Bringing up level for play took: 0.002195
+[2021.04.03-16.59.33:731][326]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.04.03-16.59.33:735][326]PIE: Server logged in
+[2021.04.03-16.59.33:736][326]PIE: Play in editor total start time 0,101 seconds.
+[2021.04.03-16.59.50:615][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.03-16.59.50:615][332]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.03-16.59.50:615][332]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.03-16.59.50:616][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.03-16.59.50:626][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.03-16.59.50:630][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.03-16.59.50:649][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.03-16.59.50:674][332]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CE8F1CA200), frame # 92332
+[2021.04.03-16.59.50:674][332]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CE8FA2FE00), frame # 92332
+[2021.04.03-16.59.50:677][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.04.03-16.59.50:711][333]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.04.03-17.00.08:736][ 91]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Characters/Character4.Character4
+[2021.04.03-17.00.11:477][216]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Character41CDF88B840C36393F898AF90460A815D.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Characters/Character4.uasset'
+[2021.04.03-17.00.11:494][216]AssetCheck: New page: Asset Save: Character4
+[2021.04.03-17.00.11:494][216]LogContentValidation: Display: Validating Blueprint /Game/Main/Characters/Character4.Character4
+[2021.04.03-17.00.11:914][241]BlueprintLog: New page: Compile Character4
+[2021.04.03-17.00.11:981][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.04.03-17.00.13:101][303]LogSlate: Window 'Character4' being destroyed
+[2021.04.03-17.00.13:112][303]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.04.03-17.00.13:112][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.03-17.00.14:799][394]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Characters/Character3.Character3
+[2021.04.03-17.00.16:122][453]BlueprintLog: New page: Compile Character3
+[2021.04.03-17.00.16:197][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.04.03-17.00.16:887][477]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Character3013A04B3473D645EF7F98C9DA0682603.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Characters/Character3.uasset'
+[2021.04.03-17.00.16:903][477]AssetCheck: New page: Asset Save: Character3
+[2021.04.03-17.00.16:903][477]LogContentValidation: Display: Validating Blueprint /Game/Main/Characters/Character3.Character3
+[2021.04.03-17.00.18:561][576]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.04.03-17.00.18:561][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.03-17.00.20:716][690]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Characters/Character2.Character2
+[2021.04.03-17.00.22:077][748]BlueprintLog: New page: Compile Character2
+[2021.04.03-17.00.22:150][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.04.03-17.00.23:783][821]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Character21BDA90CD424E33D8CF290B9B1C0AD70B.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Characters/Character2.uasset'
+[2021.04.03-17.00.23:824][821]AssetCheck: New page: Asset Save: Character2
+[2021.04.03-17.00.23:824][821]LogContentValidation: Display: Validating Blueprint /Game/Main/Characters/Character2.Character2
+[2021.04.03-17.00.25:187][900]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.04.03-17.00.25:187][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.03-17.00.29:350][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.03-17.00.29:390][130]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_DefaultE5E3489C4B16CF2B35B458AB7B227713.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.03-17.00.29:540][130]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default_BuiltDataA34DCB884A7F728439C032877A69B992.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.03-17.00.29:557][130]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.03-17.00.29:557][130]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.03-17.00.29:557][130]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData

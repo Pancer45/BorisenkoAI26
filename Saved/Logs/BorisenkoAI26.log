@@ -855,3 +855,689 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.08-20.38.25:014][749]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.08-20.38.25:015][749]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.04.08-20.38.25:015][749]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.08-21.03.48:545][930]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Interaction/Torch.Torch
+[2021.04.08-21.04.41:222][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.04.08-21.04.41:267][641]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default_Auto1129A58CF4E3912FCEC65CF8077D1444C.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2021.04.08-21.04.41:269][641]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.083
+[2021.04.08-21.04.41:269][641]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2021.04.08-21.04.41:270][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main/Interaction/Torch] ([1] browsable assets)...
+[2021.04.08-21.04.41:292][641]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Main/Interaction/Torch.Torch]
+[2021.04.08-21.04.41:292][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Interaction/Torch]
+[2021.04.08-21.04.41:315][641]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Torch_Auto16C9171AF45B0324EB0133AB1429266F5.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Autosaves/Game/Main/Interaction/Torch_Auto1.uasset'
+[2021.04.08-21.04.41:316][641]LogFileHelpers: Auto-saving content packages took 0.047
+[2021.04.08-21.07.28:229][399]LogEditorTransaction: Undo Delete current selection
+[2021.04.08-21.10.07:656][917]BlueprintLog: New page: Compile Torch
+[2021.04.08-21.10.07:702][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.04.08-21.10.08:428][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Interaction/Torch" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Torch.uasset" SILENT=true
+[2021.04.08-21.10.08:453][951]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/TorchB231D4AF4CD0D82DE9B26387231D1511.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Torch.uasset'
+[2021.04.08-21.10.08:473][951]AssetCheck: New page: Asset Save: Torch
+[2021.04.08-21.10.08:473][951]LogContentValidation: Display: Validating Blueprint /Game/Main/Interaction/Torch.Torch
+[2021.04.08-21.10.21:734][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.04.08-21.10.21:769][305]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_DefaultDD9B466F4B63CB8F7E234C807AC454FC.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.08-21.10.21:926][305]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default_BuiltDataD214A63A421033C9D3745CBAA6FB25D2.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.08-21.10.21:942][305]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-21.10.21:942][305]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.08-21.10.21:942][305]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.08-21.10.22:721][352]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.08-21.10.22:737][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.08-21.10.22:737][352]PIE: New page: PIE session: Minimal_Default (9 апр. 2021 г., 03:10:22)
+[2021.04.08-21.10.22:737][352]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-21.10.22:742][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004654s)
+[2021.04.08-21.10.22:743][352]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.08-21.10.22:743][352]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017DDB973A00), frame # 49352
+[2021.04.08-21.10.22:743][352]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017D94F3CCC0), frame # 49352
+[2021.04.08-21.10.22:743][352]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2021.04.08-21.10.22:743][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006071s)
+[2021.04.08-21.10.22:771][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.04.08-21.10.22:773][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.08-21.10.22:773][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.08-21.10.22:773][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.08-21.10.22:773][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.08-21.10.22:773][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.08-21.10.22:773][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.08-21.10.22:773][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.08-21.10.22:773][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.08-21.10.22:773][352]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.08-21.10.22:773][352]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.08-21.10.22:776][352]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-21.10.22:776][352]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-21.10.22:798][352]LogAudioMixer: Display: Using Audio Device Наушники (Realtek(R) Audio)
+[2021.04.08-21.10.22:799][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.08-21.10.22:799][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.08-21.10.22:799][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.08-21.10.22:799][352]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.08-21.10.22:819][352]LogInit: FAudioDevice initialized.
+[2021.04.08-21.10.22:831][352]LogLoad: Game class is 'MainGM_C'
+[2021.04.08-21.10.22:833][352]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.04.09-00.10.22
+[2021.04.08-21.10.22:834][352]LogWorld: Bringing up level for play took: 0.002354
+[2021.04.08-21.10.22:834][352]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.04.08-21.10.22:837][352]PIE: Server logged in
+[2021.04.08-21.10.22:838][352]PIE: Play in editor total start time 0,102 seconds.
+[2021.04.08-21.10.24:985][479]LogBlueprintUserMessages: [MainCharacter_C_0] Для смены персонажа нажимайте клавиши "1, 2, 3, 4"
+[2021.04.08-21.10.25:452][507]LogBlueprintUserMessages: [MainCharacter_C_0] Для смены персонажа нажимайте клавиши "1, 2, 3, 4"
+[2021.04.08-21.10.26:018][541]LogBlueprintUserMessages: [MainCharacter_C_0] Для смены персонажа нажимайте клавиши "1, 2, 3, 4"
+[2021.04.08-21.10.26:452][567]LogBlueprintUserMessages: [MainCharacter_C_0] Для смены персонажа нажимайте клавиши "1, 2, 3, 4"
+[2021.04.08-21.10.27:683][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-21.10.27:683][639]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-21.10.27:683][639]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-21.10.27:684][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-21.10.27:690][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.08-21.10.27:694][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-21.10.27:735][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-21.10.27:737][639]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017D94F3CCC0), frame # 49639
+[2021.04.08-21.10.27:737][639]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017DDB973A00), frame # 49639
+[2021.04.08-21.10.27:740][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.04.08-21.10.27:770][640]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.04.08-21.12.48:640][400]LogEditorTransaction: Undo Delete current selection
+[2021.04.08-21.13.10:858][704]BlueprintLog: New page: Compile Torch
+[2021.04.08-21.13.10:903][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.04.08-21.13.11:951][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Interaction/Torch" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Torch.uasset" SILENT=true
+[2021.04.08-21.13.11:975][754]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Torch6D805D864087130EE73031B888A7AD17.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Torch.uasset'
+[2021.04.08-21.13.11:991][754]AssetCheck: New page: Asset Save: Torch
+[2021.04.08-21.13.11:991][754]LogContentValidation: Display: Validating Blueprint /Game/Main/Interaction/Torch.Torch
+[2021.04.08-21.13.14:719][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.04.08-21.13.14:754][902]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default9498F7BF42AF95D77A4A698B845D8DFE.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.08-21.13.14:927][902]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default_BuiltDataDB1984194C1C59EACA455CABB8B6FE97.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.08-21.13.14:942][902]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-21.13.14:942][902]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.08-21.13.14:942][902]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.08-21.14.04:855][180]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{13a8a819-3208-4508-891a-739d3bc3ef60}.
+[2021.04.08-21.14.04:855][180]LogTemp: Resetting audio stream to device id 
+[2021.04.08-21.14.04:889][180]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-21.14.04:889][180]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-21.15.16:613][665]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.08-21.15.29:355][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Interaction/Button.Button
+[2021.04.08-21.15.29:744][417]LogRenderer: Reallocating scene render targets to support 912x724 Format 10 NumSamples 1 (Frame:1).
+[2021.04.08-21.18.29:362][878]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:362][878]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:378][879]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:378][879]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:378][879]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:394][880]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:394][880]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:394][880]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:412][881]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:412][881]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:413][881]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:427][882]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:427][882]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:427][882]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:444][883]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:445][883]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:445][883]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:461][884]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:461][884]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:461][884]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:477][885]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:478][885]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:478][885]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:494][886]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:494][886]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:495][886]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:512][887]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.29:512][887]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:311][935]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:312][935]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:328][936]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:328][936]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:328][936]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:344][937]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:344][937]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:344][937]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:361][938]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:361][938]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:361][938]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:377][939]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:378][939]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:378][939]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:394][940]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:394][940]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:394][940]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:411][941]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:412][941]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:412][941]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:428][942]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:428][942]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:428][942]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:445][943]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:445][943]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:445][943]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:461][944]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:461][944]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:461][944]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:479][945]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:479][945]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:479][945]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:495][946]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:495][946]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:495][946]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:511][947]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:511][947]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:512][947]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:528][948]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:528][948]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:528][948]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:544][949]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:544][949]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:545][949]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:561][950]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:561][950]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:561][950]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:578][951]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:578][951]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:579][951]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:594][952]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:595][952]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:595][952]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:611][953]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:611][953]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:611][953]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:628][954]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:628][954]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:628][954]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:644][955]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:645][955]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:645][955]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:661][956]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:661][956]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:661][956]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:677][957]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:677][957]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:677][957]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:694][958]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:694][958]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:694][958]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:710][959]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:711][959]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:711][959]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:727][960]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:727][960]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:727][960]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:744][961]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:744][961]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:744][961]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:761][962]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:761][962]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:761][962]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:777][963]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:778][963]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:778][963]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:794][964]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:794][964]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:795][964]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:811][965]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:811][965]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:812][965]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:828][966]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:828][966]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:828][966]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:845][967]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:845][967]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:845][967]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:862][968]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:862][968]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:862][968]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:878][969]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:878][969]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:878][969]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:895][970]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:895][970]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:895][970]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:911][971]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:911][971]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:911][971]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:928][972]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:928][972]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:928][972]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:944][973]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:945][973]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:945][973]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:961][974]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:961][974]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:961][974]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:978][975]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:978][975]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:978][975]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:994][976]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:994][976]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.30:994][976]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.31:011][977]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.31:011][977]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.31:011][977]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.31:027][978]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.31:028][978]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.31:028][978]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.31:044][979]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.31:044][979]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2021.04.08-21.18.35:418][229]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:419][229]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:435][230]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:435][230]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:435][230]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:451][231]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:451][231]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:452][231]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:468][232]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:468][232]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:468][232]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:485][233]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:486][233]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:486][233]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:502][234]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:502][234]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:502][234]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:518][235]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:518][235]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:519][235]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:535][236]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:535][236]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:535][236]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:552][237]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:552][237]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:552][237]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:568][238]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:569][238]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:569][238]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:585][239]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:586][239]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:586][239]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:601][240]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:602][240]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:602][240]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:618][241]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:618][241]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:618][241]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:634][242]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:635][242]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:635][242]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:651][243]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:652][243]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:652][243]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:668][244]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:668][244]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:668][244]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:684][245]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:685][245]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:685][245]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:701][246]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:702][246]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:702][246]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:718][247]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:718][247]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:718][247]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:735][248]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:735][248]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:735][248]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:751][249]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:751][249]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:751][249]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:768][250]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:768][250]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:768][250]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:784][251]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:784][251]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:784][251]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:801][252]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:801][252]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:801][252]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:818][253]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:818][253]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:818][253]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:834][254]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:834][254]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:834][254]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:851][255]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:851][255]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:851][255]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:868][256]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:868][256]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:868][256]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:884][257]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:885][257]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:885][257]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:901][258]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:901][258]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:901][258]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:918][259]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:918][259]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:918][259]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:934][260]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:934][260]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:934][260]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:951][261]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:951][261]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:951][261]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:967][262]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:968][262]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:968][262]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:984][263]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:984][263]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.35:984][263]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:001][264]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:001][264]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:002][264]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:018][265]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:018][265]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:018][265]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:035][266]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:035][266]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:035][266]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:051][267]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:051][267]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:051][267]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:068][268]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:068][268]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:068][268]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:084][269]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:084][269]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:084][269]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:101][270]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:101][270]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:101][270]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:118][271]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:118][271]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:118][271]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:134][272]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:134][272]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:135][272]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:151][273]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:152][273]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:152][273]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:168][274]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:168][274]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:168][274]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:185][275]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:185][275]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:185][275]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:201][276]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:201][276]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:201][276]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:218][277]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:218][277]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:218][277]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:235][278]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.36:235][278]LogPhysics: Warning: Scale for /Engine/Transient.World_16:PersistentLevel.Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.250 Z=1.000
+[2021.04.08-21.18.40:105][506]BlueprintLog: New page: Compile Button
+[2021.04.08-21.18.40:158][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.04.08-21.18.42:473][635]LogSlate: Window 'Button' being destroyed
+[2021.04.08-21.18.45:745][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Interaction/Button" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset" SILENT=true
+[2021.04.08-21.18.45:754][822]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Button28ADEF3D47E40739B9CE72AA1BA998DF.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset'
+[2021.04.08-21.18.45:911][822]AssetCheck: New page: Asset Save: Button
+[2021.04.08-21.18.45:911][822]LogContentValidation: Display: Validating Blueprint /Game/Main/Interaction/Button.Button
+[2021.04.08-21.19.27:701][294]LogStaticMesh: Building static mesh FirstPersonProjectileMesh...
+[2021.04.08-21.19.27:764][294]LogStaticMesh: Built static mesh [0.06s] /Game/Download/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2021.04.08-21.19.29:433][368]Cmd: TRANSACTION UNDO
+[2021.04.08-21.19.29:433][368]LogEditorTransaction: Undo Edit Static Mesh
+[2021.04.08-21.21.25:652][267]BlueprintLog: New page: Compile Button
+[2021.04.08-21.21.25:763][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.04.08-21.21.26:509][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Interaction/Button" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset" SILENT=true
+[2021.04.08-21.21.26:532][299]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Button68BBB05E4F4342B67A7FA197A8B4FC8F.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset'
+[2021.04.08-21.21.26:547][299]AssetCheck: New page: Asset Save: Button
+[2021.04.08-21.21.26:547][299]LogContentValidation: Display: Validating Blueprint /Game/Main/Interaction/Button.Button
+[2021.04.08-21.21.30:568][527]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.04.08-21.21.30:605][527]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default3705F0A642D8F89D271864AE68451729.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.08-21.21.30:781][527]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default_BuiltDataC21A39CF413195AFB27006A5C79E7F14.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.08-21.21.30:797][527]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-21.21.30:797][527]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.08-21.21.30:797][527]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.08-21.21.44:180][223]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.08-21.21.45:167][271]LogEditorTransaction: Undo Add Component
+[2021.04.08-21.22.02:866][381]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3d99d3e9-6039-424d-9160-2517d1450aac}.
+[2021.04.08-21.22.02:866][381]LogTemp: Resetting audio stream to device id 
+[2021.04.08-21.22.03:040][381]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-21.22.03:040][381]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-21.23.42:746][ 98]BlueprintLog: New page: Compile Button
+[2021.04.08-21.23.42:838][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.04.08-21.23.44:094][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Interaction/Button" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset" SILENT=true
+[2021.04.08-21.23.44:115][160]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Button5D428C9247E9102F49C8E7AE8FE4C610.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset'
+[2021.04.08-21.23.44:127][160]AssetCheck: New page: Asset Save: Button
+[2021.04.08-21.23.44:127][160]LogContentValidation: Display: Validating Blueprint /Game/Main/Interaction/Button.Button
+[2021.04.08-21.24.38:088][463]BlueprintLog: New page: Compile Button
+[2021.04.08-21.24.38:146][463]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.04.08-21.24.45:025][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Interaction/Button" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset" SILENT=true
+[2021.04.08-21.24.45:047][862]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Button2CA69A11419A7BC5AE592181336DF9BD.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset'
+[2021.04.08-21.24.45:060][862]AssetCheck: New page: Asset Save: Button
+[2021.04.08-21.24.45:060][862]LogContentValidation: Display: Validating Blueprint /Game/Main/Interaction/Button.Button
+[2021.04.08-21.24.58:736][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.04.08-21.24.58:772][663]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default8F5AEFB148E7E6621B970AA7A3F72B91.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.08-21.24.58:927][663]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default_BuiltData90040B5943C12CFEA5346AB7F029E30C.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.08-21.24.58:943][663]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-21.24.58:943][663]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.08-21.24.58:943][663]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.08-21.32.03:505][186]LogSlate: Took 0.007322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.04.08-21.34.19:880][930]BlueprintLog: New page: Compile Button
+[2021.04.08-21.34.19:935][930]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.04.08-21.34.21:886][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.04.08-21.34.21:921][ 28]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default2FBFA097439F2E2A89D043819ABF9311.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.08-21.34.22:089][ 28]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default_BuiltData258C4E8D4E46EC282B83BA9300BCF3D1.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.08-21.34.22:105][ 28]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-21.34.22:106][ 28]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.08-21.34.22:106][ 28]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.08-21.34.32:577][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Interaction/Button" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset" SILENT=true
+[2021.04.08-21.34.32:602][639]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/ButtonA86EA31441669CB0834873B12DEFF111.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset'
+[2021.04.08-21.34.32:616][639]AssetCheck: New page: Asset Save: Button
+[2021.04.08-21.34.32:616][639]LogContentValidation: Display: Validating Blueprint /Game/Main/Interaction/Button.Button
+[2021.04.08-21.38.00:675][617]LogEditorTransaction: Undo Move Nodes
+[2021.04.08-21.38.23:066][926]BlueprintLog: New page: Compile Button
+[2021.04.08-21.38.23:123][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.04.08-21.38.23:924][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Interaction/Button" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset" SILENT=true
+[2021.04.08-21.38.23:949][961]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Button3CBD5DBC4537D3B06BA218B29679C407.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset'
+[2021.04.08-21.38.23:964][961]AssetCheck: New page: Asset Save: Button
+[2021.04.08-21.38.23:964][961]LogContentValidation: Display: Validating Blueprint /Game/Main/Interaction/Button.Button
+[2021.04.08-21.38.27:237][152]BlueprintLog: New page: Compile Button
+[2021.04.08-21.38.27:293][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.04.08-21.38.28:939][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Interaction/Button" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset" SILENT=true
+[2021.04.08-21.38.28:964][237]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Button0564F9464E3DBFF86C3B6DA73CD6867B.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Button.uasset'
+[2021.04.08-21.38.28:982][237]AssetCheck: New page: Asset Save: Button
+[2021.04.08-21.38.28:982][237]LogContentValidation: Display: Validating Blueprint /Game/Main/Interaction/Button.Button
+[2021.04.08-21.38.32:645][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.04.08-21.38.32:681][444]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default436A72E44A7CD5A6923BB89169791D26.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.08-21.38.32:836][444]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default_BuiltDataD9B0FC4B40C5308811FAC7B59D1ACFB8.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.08-21.38.32:852][444]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-21.38.32:852][444]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.08-21.38.32:852][444]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.08-21.38.36:422][656]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.08-21.38.36:440][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.08-21.38.36:440][656]PIE: New page: PIE session: Minimal_Default (9 апр. 2021 г., 03:38:36)
+[2021.04.08-21.38.36:440][656]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-21.38.36:445][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004514s)
+[2021.04.08-21.38.36:445][656]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.08-21.38.36:446][656]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017E6A4C3000), frame # 97656
+[2021.04.08-21.38.36:446][656]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017DFE1CF240), frame # 97656
+[2021.04.08-21.38.36:446][656]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2021.04.08-21.38.36:446][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005785s)
+[2021.04.08-21.38.36:477][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.04.08-21.38.36:480][656]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.08-21.38.36:480][656]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.08-21.38.36:480][656]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.08-21.38.36:480][656]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.08-21.38.36:480][656]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.08-21.38.36:480][656]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.08-21.38.36:480][656]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.08-21.38.36:480][656]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.08-21.38.36:480][656]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.08-21.38.36:480][656]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.08-21.38.36:483][656]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-21.38.36:483][656]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-21.38.36:503][656]LogAudioMixer: Display: Using Audio Device Наушники (Realtek(R) Audio)
+[2021.04.08-21.38.36:504][656]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.08-21.38.36:504][656]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.08-21.38.36:504][656]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.08-21.38.36:504][656]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.08-21.38.36:522][656]LogInit: FAudioDevice initialized.
+[2021.04.08-21.38.36:530][656]LogLoad: Game class is 'MainGM_C'
+[2021.04.08-21.38.36:532][656]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.04.09-00.38.36
+[2021.04.08-21.38.36:533][656]LogWorld: Bringing up level for play took: 0.002410
+[2021.04.08-21.38.36:533][656]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.04.08-21.38.36:537][656]PIE: Server logged in
+[2021.04.08-21.38.36:537][656]PIE: Play in editor total start time 0,104 seconds.
+[2021.04.08-21.38.45:910][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-21.38.45:910][214]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-21.38.45:910][214]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-21.38.45:911][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-21.38.45:925][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.08-21.38.45:930][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-21.38.45:959][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-21.38.45:983][214]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017DFE1CF240), frame # 98214
+[2021.04.08-21.38.45:983][214]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017E6A4C3000), frame # 98214
+[2021.04.08-21.38.45:986][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.04.08-21.38.46:019][215]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.04.08-21.38.46:784][260]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.08-21.38.46:796][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.08-21.38.46:796][260]PIE: New page: PIE session: Minimal_Default (9 апр. 2021 г., 03:38:46)
+[2021.04.08-21.38.46:796][260]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-21.38.46:801][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004494s)
+[2021.04.08-21.38.46:802][260]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.08-21.38.46:802][260]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017DFF2A1A00), frame # 98260
+[2021.04.08-21.38.46:802][260]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017DFE057740), frame # 98260
+[2021.04.08-21.38.46:802][260]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2021.04.08-21.38.46:802][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005672s)
+[2021.04.08-21.38.46:833][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.04.08-21.38.46:834][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.08-21.38.46:835][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.08-21.38.46:835][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.08-21.38.46:835][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.08-21.38.46:835][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.08-21.38.46:835][260]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.08-21.38.46:835][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.08-21.38.46:835][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.08-21.38.46:835][260]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.08-21.38.46:835][260]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.08-21.38.46:838][260]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-21.38.46:838][260]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-21.38.46:859][260]LogAudioMixer: Display: Using Audio Device Наушники (Realtek(R) Audio)
+[2021.04.08-21.38.46:859][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.08-21.38.46:859][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.08-21.38.46:859][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.08-21.38.46:859][260]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.08-21.38.46:880][260]LogInit: FAudioDevice initialized.
+[2021.04.08-21.38.46:886][260]LogLoad: Game class is 'MainGM_C'
+[2021.04.08-21.38.46:890][260]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.04.09-00.38.46
+[2021.04.08-21.38.46:891][260]LogWorld: Bringing up level for play took: 0.003571
+[2021.04.08-21.38.46:891][260]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.04.08-21.38.46:894][260]PIE: Server logged in
+[2021.04.08-21.38.46:895][260]PIE: Play in editor total start time 0,099 seconds.
+[2021.04.08-21.38.56:799][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-21.38.56:799][850]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-21.38.56:799][850]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-21.38.56:800][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-21.38.56:811][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.08-21.38.56:816][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-21.38.56:841][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-21.38.56:865][850]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017DFE057740), frame # 98850
+[2021.04.08-21.38.56:865][850]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017DFF2A1A00), frame # 98850
+[2021.04.08-21.38.56:868][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.04.08-21.38.56:902][851]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.04.08-21.39.17:071][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.04.08-21.39.17:155][ 61]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.04.08-21.39.17:877][103]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.08-21.39.18:074][113]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.08-21.39.18:621][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.08-21.39.18:686][148]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.04.08-21.39.20:559][259]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.08-21.39.20:575][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.08-21.39.20:575][259]PIE: New page: PIE session: Minimal_Default (9 апр. 2021 г., 03:39:20)
+[2021.04.08-21.39.20:575][259]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-21.39.20:580][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004772s)
+[2021.04.08-21.39.20:581][259]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.08-21.39.20:581][259]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017D9F39AC00), frame # 100259
+[2021.04.08-21.39.20:581][259]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017D952111C0), frame # 100259
+[2021.04.08-21.39.20:581][259]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2021.04.08-21.39.20:581][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006223s)
+[2021.04.08-21.39.20:612][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.04.08-21.39.20:616][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.08-21.39.20:616][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.08-21.39.20:616][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.08-21.39.20:616][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.08-21.39.20:616][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.08-21.39.20:616][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.08-21.39.20:616][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.08-21.39.20:616][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.08-21.39.20:616][259]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.08-21.39.20:616][259]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.08-21.39.20:620][259]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-21.39.20:620][259]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-21.39.20:642][259]LogAudioMixer: Display: Using Audio Device Наушники (Realtek(R) Audio)
+[2021.04.08-21.39.20:642][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.08-21.39.20:642][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.08-21.39.20:642][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.08-21.39.20:643][259]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.08-21.39.20:664][259]LogInit: FAudioDevice initialized.
+[2021.04.08-21.39.20:672][259]LogLoad: Game class is 'MainGM_C'
+[2021.04.08-21.39.20:674][259]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.04.09-00.39.20
+[2021.04.08-21.39.20:675][259]LogWorld: Bringing up level for play took: 0.002370
+[2021.04.08-21.39.20:675][259]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.04.08-21.39.20:679][259]PIE: Server logged in
+[2021.04.08-21.39.20:680][259]PIE: Play in editor total start time 0,106 seconds.
+[2021.04.08-21.39.26:300][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-21.39.26:300][592]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-21.39.26:301][592]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-21.39.26:301][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-21.39.26:311][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.08-21.39.26:316][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-21.39.26:343][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-21.39.26:366][592]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017D952111C0), frame # 100592
+[2021.04.08-21.39.26:366][592]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017D9F39AC00), frame # 100592
+[2021.04.08-21.39.26:371][592]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.04.08-21.39.26:406][593]Cmd: SELECT NONE
+[2021.04.08-21.39.26:415][593]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.04.08-21.40.51:015][413]BlueprintLog: New page: Compile Torch
+[2021.04.08-21.40.51:070][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.04.08-21.40.51:625][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Interaction/Torch" FILE="../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Torch.uasset" SILENT=true
+[2021.04.08-21.40.51:652][435]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/TorchCC63168B495BD58BE32F88BA13D04209.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Interaction/Torch.uasset'
+[2021.04.08-21.40.51:668][435]AssetCheck: New page: Asset Save: Torch
+[2021.04.08-21.40.51:669][435]LogContentValidation: Display: Validating Blueprint /Game/Main/Interaction/Torch.Torch
+[2021.04.08-21.40.53:901][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.04.08-21.40.53:945][556]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_DefaultFF7E8DF6436BD7858B7CBE8172C3536C.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.08-21.40.54:110][556]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default_BuiltData612C36924A303074BBC816AE514BA779.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.08-21.40.54:129][556]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-21.40.54:129][556]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.08-21.40.54:129][556]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.08-21.40.54:746][593]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.08-21.40.54:758][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.08-21.40.54:758][593]PIE: New page: PIE session: Minimal_Default (9 апр. 2021 г., 03:40:54)
+[2021.04.08-21.40.54:758][593]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-21.40.54:762][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004395s)
+[2021.04.08-21.40.54:763][593]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.08-21.40.54:763][593]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017E2C4BB600), frame # 103593
+[2021.04.08-21.40.54:763][593]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017DF0772FC0), frame # 103593
+[2021.04.08-21.40.54:764][593]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2021.04.08-21.40.54:764][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005701s)
+[2021.04.08-21.40.54:794][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.04.08-21.40.54:796][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.08-21.40.54:796][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.08-21.40.54:796][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.08-21.40.54:796][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.08-21.40.54:796][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.08-21.40.54:796][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.08-21.40.54:796][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.08-21.40.54:796][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.08-21.40.54:796][593]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.08-21.40.54:796][593]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.08-21.40.54:799][593]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-21.40.54:799][593]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-21.40.54:821][593]LogAudioMixer: Display: Using Audio Device Наушники (Realtek(R) Audio)
+[2021.04.08-21.40.54:821][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.08-21.40.54:821][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.08-21.40.54:821][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.08-21.40.54:822][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.08-21.40.54:841][593]LogInit: FAudioDevice initialized.
+[2021.04.08-21.40.54:852][593]LogLoad: Game class is 'MainGM_C'
+[2021.04.08-21.40.54:855][593]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.04.09-00.40.54
+[2021.04.08-21.40.54:855][593]LogWorld: Bringing up level for play took: 0.002312
+[2021.04.08-21.40.54:855][593]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.04.08-21.40.54:859][593]PIE: Server logged in
+[2021.04.08-21.40.54:860][593]PIE: Play in editor total start time 0,102 seconds.
+[2021.04.08-21.41.03:321][ 98]LogBlueprintUserMessages: [MainCharacter_C_0] Для смены персонажа нажимайте клавиши "1, 2, 3, 4"
+[2021.04.08-21.41.20:488][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-21.41.20:488][126]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-21.41.20:489][126]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-21.41.20:489][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-21.41.20:497][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.08-21.41.20:503][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-21.41.20:531][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-21.41.20:554][126]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017DF0772FC0), frame # 105126
+[2021.04.08-21.41.20:554][126]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017E2C4BB600), frame # 105126
+[2021.04.08-21.41.20:557][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.04.08-21.41.20:589][127]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.04.08-21.41.21:516][182]LogRenderer: Reallocating scene render targets to support 1132x724 Format 10 NumSamples 1 (Frame:19162).

@@ -678,3 +678,180 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.08-18.48.03:328][902]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
 [2021.04.08-18.48.04:641][902]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2021.04.08-18.48.04:762][903]LogSlate: Took 0.005914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.08-18.56.52:442][811]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3d99d3e9-6039-424d-9160-2517d1450aac}.
+[2021.04.08-18.56.52:442][811]LogTemp: Resetting audio stream to device id 
+[2021.04.08-18.56.52:656][811]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-18.56.52:657][811]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-18.59.19:426][251]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{13a8a819-3208-4508-891a-739d3bc3ef60}.
+[2021.04.08-18.59.19:426][251]LogTemp: Resetting audio stream to device id 
+[2021.04.08-18.59.19:460][251]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-18.59.19:461][251]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-19.02.31:330][826]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3d99d3e9-6039-424d-9160-2517d1450aac}.
+[2021.04.08-19.02.31:330][826]LogTemp: Resetting audio stream to device id 
+[2021.04.08-19.02.31:367][826]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-19.02.31:367][826]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-20.08.20:262][873]LogTemp: Resetting audio stream to device id 
+[2021.04.08-20.08.20:286][873]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-20.08.20:287][873]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-20.30.55:959][883]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2021.04.08-20.30.56:065][883]LogTemp: Resetting audio stream to device id 
+[2021.04.08-20.30.56:117][883]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-20.30.56:117][883]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-20.31.15:649][943]LogHttp: Warning: 0000017D899B6B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B715985D1-4DAB-67C3-612B-CF81DB6B7A01%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=39381a4f4a30f6a618051f88f9dab84d%7C4c5270a5d7c147028d9a4fea75ed720d%7C1cae8ec6-1348-4066-aec0-f058c48a33dc&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.08-20.31.15:649][943]LogHttp: Warning: 0000017D899B6B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.04.08-20.31.15:649][943]LogHttp: Warning: 0000017D899B6B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x17d7bbeff70 [can pipeline])
+[2021.04.08-20.31.15:649][943]LogHttp: Warning: 0000017D899B6B00: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2021.04.08-20.31.15:649][943]LogHttp: Warning: 0000017D899B6B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.207.62.10) port 443 (#26))
+[2021.04.08-20.31.15:649][943]LogHttp: Warning: 0000017D899B6B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.04.08-20.31.15:649][943]LogHttp: Warning: 0000017D899B6B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.04.08-20.31.15:649][943]LogHttp: Warning: 0000017D899B6B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.04.08-20.31.15:649][943]LogHttp: Warning: 0000017D899B6B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.04.08-20.31.15:649][943]LogHttp: Warning: 0000017D899B6B00: libcurl info message cache 7 (Closing connection 26)
+[2021.04.08-20.31.15:983][944]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B715985D1-4DAB-67C3-612B-CF81DB6B7A01%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=39381a4f4a30f6a618051f88f9dab84d%7C4c5270a5d7c147028d9a4fea75ed720d%7C1cae8ec6-1348-4066-aec0-f058c48a33dc&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.04.08-20.35.28:853][701]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.08-20.35.28:854][701]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.08-20.35.30:785][787]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Characters/Character2.Character2
+[2021.04.08-20.35.36:397][ 73]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.08-20.35.36:397][ 73]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.08-20.35.39:232][241]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Main/Characters/Character2.Character2 from Character to MainCharacter_C...
+[2021.04.08-20.35.39:268][241]LogBlueprint: Warning: [Compiler Character2] Found a component variable with a conflicting name (SpringArm) - changed to SpringArm_0.
+[2021.04.08-20.35.39:269][241]LogBlueprint: Warning: [Compiler Character2] Found a component variable with a conflicting name (Camera) - changed to Camera_0.
+[2021.04.08-20.35.39:286][241]BlueprintLog: New page: Compile Character2
+[2021.04.08-20.35.39:408][241]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2021.04.08-20.35.52:446][  7]BlueprintLog: New page: Compile Character2
+[2021.04.08-20.35.52:525][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.04.08-20.35.56:490][223]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Character296C3FBF346030B344347C096178D70F0.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Characters/Character2.uasset'
+[2021.04.08-20.35.56:520][223]AssetCheck: New page: Asset Save: Character2
+[2021.04.08-20.35.56:520][223]LogContentValidation: Display: Validating Blueprint /Game/Main/Characters/Character2.Character2
+[2021.04.08-20.35.57:954][308]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-20.35.57:954][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-20.36.00:520][446]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Characters/Character3.Character3
+[2021.04.08-20.36.05:390][711]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.08-20.36.09:124][931]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Main/Characters/Character3.Character3 from Character to MainCharacter_C...
+[2021.04.08-20.36.09:134][931]LogBlueprint: Warning: [Compiler Character3] Found a component variable with a conflicting name (SpringArm) - changed to SpringArm_0.
+[2021.04.08-20.36.09:134][931]LogBlueprint: Warning: [Compiler Character3] Found a component variable with a conflicting name (Camera) - changed to Camera_0.
+[2021.04.08-20.36.09:142][931]BlueprintLog: New page: Compile Character3
+[2021.04.08-20.36.09:211][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.04.08-20.36.14:751][242]BlueprintLog: New page: Compile Character3
+[2021.04.08-20.36.14:826][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.08-20.36.17:584][394]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Character3546BEA7C434B23D4ED8399AC5D62E235.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Characters/Character3.uasset'
+[2021.04.08-20.36.17:601][394]AssetCheck: New page: Asset Save: Character3
+[2021.04.08-20.36.17:601][394]LogContentValidation: Display: Validating Blueprint /Game/Main/Characters/Character3.Character3
+[2021.04.08-20.36.18:544][451]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-20.36.18:544][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-20.36.25:818][868]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Characters/Character4.Character4
+[2021.04.08-20.36.28:494][997]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.08-20.36.32:310][219]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Main/Characters/Character4.Character4 from Character to MainCharacter_C...
+[2021.04.08-20.36.32:323][219]LogBlueprint: Warning: [Compiler Character4] Found a component variable with a conflicting name (SpringArm) - changed to SpringArm_0.
+[2021.04.08-20.36.32:323][219]LogBlueprint: Warning: [Compiler Character4] Found a component variable with a conflicting name (Camera) - changed to Camera_0.
+[2021.04.08-20.36.32:331][219]BlueprintLog: New page: Compile Character4
+[2021.04.08-20.36.32:402][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.04.08-20.36.33:406][269]BlueprintLog: New page: Compile Character4
+[2021.04.08-20.36.33:489][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.04.08-20.36.45:649][966]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Character448C6DF1B4F285FD164FB8398B643C75C.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/Main/Characters/Character4.uasset'
+[2021.04.08-20.36.45:664][966]AssetCheck: New page: Asset Save: Character4
+[2021.04.08-20.36.45:664][966]LogContentValidation: Display: Validating Blueprint /Game/Main/Characters/Character4.Character4
+[2021.04.08-20.36.46:265][  2]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.08-20.36.46:280][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.08-20.36.46:286][  2]PIE: New page: PIE session: Minimal_Default (9 апр. 2021 г., 02:36:46)
+[2021.04.08-20.36.46:290][  2]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.08-20.36.46:292][  2]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.08-20.36.46:293][  2]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-20.36.46:304][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010183s)
+[2021.04.08-20.36.46:305][  2]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.08-20.36.46:306][  2]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017DDBD13E00), frame # 21002
+[2021.04.08-20.36.46:306][  2]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017D61AD2FC0), frame # 21002
+[2021.04.08-20.36.46:306][  2]LogPlayLevel: PIE: World Init took: (0.002162s)
+[2021.04.08-20.36.46:306][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013219s)
+[2021.04.08-20.36.46:329][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.04.08-20.36.46:331][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.08-20.36.46:331][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.08-20.36.46:331][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.08-20.36.46:331][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.08-20.36.46:331][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.08-20.36.46:332][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.08-20.36.46:332][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.08-20.36.46:332][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.08-20.36.46:332][  2]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.08-20.36.46:332][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.08-20.36.46:335][  2]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-20.36.46:335][  2]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-20.36.46:358][  2]LogAudioMixer: Display: Using Audio Device Наушники (Realtek(R) Audio)
+[2021.04.08-20.36.46:358][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.08-20.36.46:358][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.08-20.36.46:358][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.08-20.36.46:359][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.08-20.36.46:377][  2]LogInit: FAudioDevice initialized.
+[2021.04.08-20.36.46:416][  2]LogLoad: Game class is 'MainGM_C'
+[2021.04.08-20.36.46:425][  2]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.04.08-23.36.46
+[2021.04.08-20.36.46:433][  2]LogWorld: Bringing up level for play took: 0.011119
+[2021.04.08-20.36.46:434][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.04.08-20.36.46:444][  2]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2021.04.08-20.36.46:451][  2]PIE: Server logged in
+[2021.04.08-20.36.46:453][  2]PIE: Play in editor total start time 0,177 seconds.
+[2021.04.08-20.36.52:209][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-20.36.52:209][253]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-20.36.52:210][253]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-20.36.52:210][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-20.36.52:217][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.08-20.36.52:220][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-20.36.52:268][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-20.36.52:284][253]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017D61AD2FC0), frame # 21253
+[2021.04.08-20.36.52:284][253]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017DDBD13E00), frame # 21253
+[2021.04.08-20.36.52:312][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.04.08-20.36.52:345][254]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.04.08-20.36.53:388][315]LogSlate: Window 'Character4' being destroyed
+[2021.04.08-20.36.53:394][315]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-20.36.53:394][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-20.36.54:492][376]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.08-20.36.54:509][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.08-20.36.54:509][376]PIE: New page: PIE session: Minimal_Default (9 апр. 2021 г., 02:36:54)
+[2021.04.08-20.36.54:510][376]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-20.36.54:514][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004476s)
+[2021.04.08-20.36.54:515][376]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.08-20.36.54:515][376]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017DF0A38200), frame # 21376
+[2021.04.08-20.36.54:515][376]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017D95AB0540), frame # 21376
+[2021.04.08-20.36.54:516][376]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2021.04.08-20.36.54:516][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006063s)
+[2021.04.08-20.36.54:544][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.04.08-20.36.54:545][376]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.08-20.36.54:545][376]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.08-20.36.54:545][376]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.08-20.36.54:545][376]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.08-20.36.54:545][376]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.08-20.36.54:545][376]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.08-20.36.54:545][376]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.08-20.36.54:545][376]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.08-20.36.54:546][376]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.08-20.36.54:546][376]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.08-20.36.54:549][376]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.08-20.36.54:549][376]LogAudioMixer: Display: 1: FrontRight
+[2021.04.08-20.36.54:568][376]LogAudioMixer: Display: Using Audio Device Наушники (Realtek(R) Audio)
+[2021.04.08-20.36.54:568][376]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.08-20.36.54:568][376]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.08-20.36.54:568][376]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.08-20.36.54:569][376]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.08-20.36.54:588][376]LogInit: FAudioDevice initialized.
+[2021.04.08-20.36.54:599][376]LogLoad: Game class is 'MainGM_C'
+[2021.04.08-20.36.54:601][376]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.04.08-23.36.54
+[2021.04.08-20.36.54:602][376]LogWorld: Bringing up level for play took: 0.002230
+[2021.04.08-20.36.54:602][376]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.04.08-20.36.54:606][376]PIE: Server logged in
+[2021.04.08-20.36.54:607][376]PIE: Play in editor total start time 0,098 seconds.
+[2021.04.08-20.37.19:526][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-20.37.19:526][867]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.04.08-20.37.19:526][867]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.08-20.37.19:527][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-20.37.19:539][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.08-20.37.19:543][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.08-20.37.19:584][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.08-20.37.19:586][867]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017D95AB0540), frame # 22867
+[2021.04.08-20.37.19:586][867]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017DF0A38200), frame # 22867
+[2021.04.08-20.37.19:589][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.04.08-20.37.19:619][868]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.04.08-20.38.24:814][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.04.08-20.38.24:851][749]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_DefaultB9C2D24E4727568DA2500388AB6950E1.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.08-20.38.25:001][749]LogSavePackage: Moving '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Saved/Minimal_Default_BuiltDataC01DEBBC4D27C90DE79A6D9DBB06F2F9.tmp' to '../../../../../../Users/20021/Documents/Unreal Projects/GeekBrains/BorisenkoAI26/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.08-20.38.25:014][749]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.08-20.38.25:015][749]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.08-20.38.25:015][749]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
